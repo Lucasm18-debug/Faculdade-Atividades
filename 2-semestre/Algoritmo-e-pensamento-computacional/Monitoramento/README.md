@@ -156,7 +156,7 @@ Foi testada a entrada de valores inválidos para verificar se o programa identif
 
 **Resultado esperado:** o programa deve informar que a entrada é inválida e não deve considerar o valor nos cálculos.
 
-![Teste 1](evidencias/teste01.png)
+![Teste 1](evidencias/teste1.png)
 
 ---
 
@@ -177,7 +177,7 @@ Limite: 30 °C
 
 **Resultado esperado:** o contador de temperaturas consecutivas deve ser reiniciado sempre que uma temperatura não estiver acima do limite, impedindo o encerramento automático.
 
-![Teste 2](evidencias/teste02.png)
+![Teste 2](evidencias/teste2.png)
 
 ---
 
@@ -197,7 +197,7 @@ Limite: 30 °C
 
 **Resultado esperado:** ao atingir três temperaturas consecutivas acima do limite, o programa deve encerrar automaticamente o monitoramento e apresentar o relatório final.
 
-![Teste 3](evidencias/teste03.png)
+![Teste 3](evidencias/teste3.png)
 
 ---
 
