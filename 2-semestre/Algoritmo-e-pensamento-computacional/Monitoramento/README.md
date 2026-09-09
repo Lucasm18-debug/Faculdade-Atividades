@@ -3,8 +3,11 @@
 ## 1. Identificação
 
 **Aluno:** Lucas Emanuel Martins Beserra
+
 **Disciplina:** Algoritmos e Pensamento Computacional
+
 **Professora:** Profa. Karla Sartin
+
 **Título:** Desafio de Monitoramento de Temperaturas
 
 ---
