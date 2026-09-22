@@ -2,7 +2,7 @@
 
 Repositório destinado ao armazenamento de atividades, exercícios, trabalhos e projetos desenvolvidos durante minha graduação em Engenharia de Software.
 
-## 📚 Organização
+## Organização
 
 As atividades estão organizadas por semestre e disciplina:
 
@@ -15,6 +15,6 @@ As atividades estão organizadas por semestre e disciplina:
 
 Novas disciplinas e semestres serão adicionados conforme o avanço da graduação.
 
-## 🎯 Objetivo
+## Objetivo
 
 Manter um histórico organizado dos trabalhos acadêmicos e acompanhar minha evolução ao longo da graduação.
