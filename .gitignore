@@ -1,0 +1,25 @@
+
+# Arquivos compilados em C
+*.o
+*.out
+*.exe
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# JavaScript e Node.js
+node_modules/
+dist/
+build/
+
+# Arquivos de ambiente e credenciais
+.env
+.env.*
+!.env.example
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
