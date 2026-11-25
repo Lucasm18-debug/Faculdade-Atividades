@@ -76,6 +76,24 @@ clinica.exe
 6. Escolha `4` para identificar o atendimento atual e `5` para finalizá-lo.
 7. Escolha `6 - Mostrar painel` para consultar as senhas que continuam aguardando.
 
+## Imagens dos testes
+
+As imagens abaixo mostram uma execução de teste com três pacientes: um normal, uma paciente gestante (preferencial) e um paciente com 81 anos (urgente).
+
+### 1. Cadastro e geração das senhas
+
+![Cadastro e geração das senhas](imagens/teste-cadastro.svg)
+
+### 2. Painel de chamada e quantidade em espera
+
+![Painel de chamada](imagens/teste-painel.svg)
+
+### 3. Chamada e finalização dos atendimentos
+
+![Ordem de chamada](imagens/teste-chamadas.svg)
+
+Nesse teste, a ordem de chamada observada foi U001, P001 e N001, conforme a prioridade definida para a atividade.
+
 ## Limite
 
 O programa armazena até 300 pacientes aguardando em cada categoria durante a execução. Os dados ficam na memória e são apagados quando o programa é encerrado.
