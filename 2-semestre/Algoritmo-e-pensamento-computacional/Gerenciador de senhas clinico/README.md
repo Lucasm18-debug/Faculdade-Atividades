@@ -93,7 +93,3 @@ As imagens abaixo mostram uma execução de teste com três pacientes: um normal
 ![Ordem de chamada](imagens/teste-chamadas.svg)
 
 Nesse teste, a ordem de chamada observada foi U001, P001 e N001, conforme a prioridade definida para a atividade.
-
-## Limite
-
-O programa armazena até 300 pacientes aguardando em cada categoria durante a execução. Os dados ficam na memória e são apagados quando o programa é encerrado.
