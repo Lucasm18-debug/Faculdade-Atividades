@@ -92,4 +92,4 @@ As imagens abaixo mostram uma execução de teste com três pacientes: um normal
 
 ![Ordem de chamada](imagens/teste-chamadas.svg)
 
-Nesse teste, a ordem de chamada observada foi U001, P001 e N001, conforme a prioridade definida para a atividade.
+A ordem de chamada observada foi U001, P001 e N001.
