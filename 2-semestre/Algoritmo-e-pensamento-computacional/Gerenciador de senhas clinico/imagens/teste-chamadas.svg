@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="726" viewBox="0 0 1500 726">
+<rect width="100%" height="100%" fill="#0d1117"/>
+<rect x="18" y="18" width="1464" height="690" rx="16" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+<path d="M34 18 H1466 a16 16 0 0 1 16 16 V76 H18 V34 a16 16 0 0 1 16-16" fill="#21262d"/>
+<circle cx="53" cy="46" r="7" fill="#ff5f56"/><circle cx="83" cy="46" r="7" fill="#ffbd2e"/><circle cx="113" cy="46" r="7" fill="#27c93f"/>
+<text x="165" y="54" fill="#e6edf3" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="22" font-weight="bold">Teste 3 - Chamadas por ordem de prioridade</text>
+<text x="34" y="126" fill="#c9d1d9" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="22">$ Escolha uma opcao: 3</text>
+<text x="34" y="160" fill="#7ee787" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="22">Senha chamada: U001 - Urgente</text>
+<text x="34" y="194" fill="#c9d1d9" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="22">$ Escolha uma opcao: 4</text>
+<text x="34" y="228" fill="#c9d1d9" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="22">--- Atendimento atual ---</text>
+<text x="34" y="262" fill="#c9d1d9" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="22">U001 - Urgente</text>
+<text x="34" y="296" fill="#c9d1d9" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="22">$ Escolha uma opcao: 5</text>
+<text x="34" y="330" fill="#7ee787" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="22">Atendimento finalizado: U001 - Urgente</text>
+<text x="34" y="364" fill="#c9d1d9" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="22"></text>
+<text x="34" y="398" fill="#c9d1d9" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="22">$ Escolha uma opcao: 3</text>
+<text x="34" y="432" fill="#7ee787" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="22">Senha chamada: P001 - Preferencial</text>
+<text x="34" y="466" fill="#c9d1d9" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="22">$ Escolha uma opcao: 5</text>
+<text x="34" y="500" fill="#7ee787" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="22">Atendimento finalizado: P001 - Preferencial</text>
+<text x="34" y="534" fill="#c9d1d9" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="22"></text>
+<text x="34" y="568" fill="#c9d1d9" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="22">$ Escolha uma opcao: 3</text>
+<text x="34" y="602" fill="#7ee787" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="22">Senha chamada: N001 - Normal</text>
+<text x="34" y="636" fill="#c9d1d9" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="22">$ Escolha uma opcao: 5</text>
+<text x="34" y="670" fill="#7ee787" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="22">Atendimento finalizado: N001 - Normal</text>
+</svg>
